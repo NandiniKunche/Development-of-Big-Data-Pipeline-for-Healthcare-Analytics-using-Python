@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d5efd80d-c30e-423b-a544-46292b7d1b03" /># Development-of-Big-Data-Pipeline-for-Healthcare-Analytics-using-Python
+# Development-of-Big-Data-Pipeline-for-Healthcare-Analytics-using-Python
 
 Interface Link : https://development-of-big-data-pipeline-fo-three.vercel.app/ 
 Dashboard Link: https://mb5xxdo4ar57ypbqozdxsc.streamlit.app/
